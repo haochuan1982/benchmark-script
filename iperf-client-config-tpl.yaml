@@ -1,0 +1,12 @@
+---
+port: 5201
+interval: 1
+json: true
+log_file: "result/PROTOCAL1_LENGTH"
+host: "127.0.0.1"
+proto: "tcp"
+time_sec: 60
+length: "LENGTH"
+streams: 1
+omit_sec: 0
+include_server: False
